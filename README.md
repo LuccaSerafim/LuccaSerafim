@@ -1,19 +1,16 @@
 ## Seja Bem-Vindo ao meu perfil!
-
 Me chamo Lucca di stefanno, tenho 20 anos e sou natural de Brasília. Atualmente estou cursando Ciência da Computação (5° Semestre). Sempre buscando desenvolver meus projetos e aprender novas linguagens.
 
 <div>
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=LuccaSerafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaSerafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
 
 ## Linguagens e Tecnologias
 <div style="text-align: center;">
   <img alt="Java" title="Java" width="30px" style="display: inline-block; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="C" title="C" width="30px" style="display: inline-block; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="Python" title="Python" width="30px" style="display: inline-block; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="MySQL" title="MySQL" width="30px" style="display: inline-block; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="display: inline-block; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img alt="Git" title="Git" width="30px" style="display: inline-block; margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
