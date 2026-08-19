@@ -1,8 +1,8 @@
 ## Seja Bem-Vindo ao meu perfil!
-Me chamo Lucca di stefanno, tenho 20 anos e sou natural de Brasília. Atualmente estou cursando Ciência da Computação (6° Semestre). Sempre buscando desenvolver meus projetos e aprender novas linguagens.
+Me chamo Lucca di stefanno, tenho 21 anos e sou natural de Brasília. Atualmente estou cursando Ciência da Computação (7° Semestre). Sempre buscando desenvolver meus projetos e aprender novas linguagens.
 <div>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuccaSerafim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuccaSerafim&show_icons=true&theme=dark&include_all_commits=true)"/>
 
 <div>
   
